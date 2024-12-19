@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Binnur Kurt
-Build-Jdk: 21.0.5
+Built-By: binku
+Build-Jdk: 23.0.1
 Created-By: Maven Integration for Eclipse
 

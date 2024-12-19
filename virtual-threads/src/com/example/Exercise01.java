@@ -2,6 +2,7 @@ package com.example;
 
 public class Exercise01 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// Kernel Thread, -Xss8m -> static/constant -> virtual memory
 		// 1024 Platform Thread -> 4g
